@@ -1,1 +1,1 @@
-# -link-tw.shein.com-
+# link-tw.shein.com
